@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
-        /*String correctPassword = "Ardian123";
+        String correctPassword = "Ardian123";
         boolean passwordCorrect = false;
         while (!passwordCorrect) {
             System.out.print("Enter your password: ");
@@ -13,8 +13,8 @@ public class Main {
             } else {
                 System.out.println("Incorrect password, try again!");
             }
-        }*/
-        int sum = 0;
+        }
+        /*int sum = 0;
         int read;
         int i=0;
         while(i<3){
@@ -23,6 +23,6 @@ public class Main {
             sum+=read;
             i++;
         }
-        System.out.println("Sum is: "+ sum);
+        System.out.println("Sum is: "+ sum);*/
     }
 }
